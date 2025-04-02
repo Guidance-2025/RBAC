@@ -3,9 +3,11 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://amiralam198.github.io/Guidance-2025/RBAC",
+  
   
   "scripts": {
-    "dev": "vite",
+    "dev": "vite", 
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
